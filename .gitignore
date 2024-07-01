@@ -1,2 +1,5 @@
 .venv/
 tmp.sql
+tmp.py
+tmp/
+__pycache__/
